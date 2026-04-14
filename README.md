@@ -6,6 +6,8 @@ A rag model is built using the RAG tutorial from Langchain: https://python.langc
 
 This repo is linked to this [research task](https://github.com/BeyondQuality/beyondquality/blob/main/research/rag-evaluation.md) from the BeyondQuality community. 
 
+To access a more in-depth workshop version of this talk, head to https://github.com/anupamck/tad26Workshop. 
+
 ## Setup
 ### Configure APIs
 1. Get an account at LangSmith: https://smith.langchain.com/ and create a project (Choose `US` as the region)
