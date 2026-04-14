@@ -1,7 +1,6 @@
 # Automated Testing of a Large Language Model: A Live Demo
 
-_Anupam Krishnamurthy
-Test Automation Days 2026_
+_Anupam Krishnamurthy_
 
 A rag model is built using the RAG tutorial from Langchain: https://python.langchain.com/docs/tutorials/rag/. Here, I have connected the [basecamp handbook ](https://basecamp.com/handbook) as the custom datasource, and used [Ragas](https://github.com/explodinggradients/ragas/tree/main/docs) for evaluating the RAG model's responses. 
 
