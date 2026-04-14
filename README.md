@@ -1,4 +1,4 @@
-# Automated Testing of a Large Language Model: A Live Demo
+# RAG evals: A Live Demo
 
 _Anupam Krishnamurthy_
 
