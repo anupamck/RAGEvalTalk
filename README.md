@@ -45,3 +45,9 @@ docker compose down
 2. Open the basecampHandbookRagWithRagas.ipynb in the Jupyter lab UI.
 3. Explore the handbook by running each block using the UI. 
 4. View the LangSmith traces of the LLM calls in the LangSmith UI.
+
+## Recommended Reading
+- [Judging LLM-as-a-Judge with MT-Bench and Chatbot Arena](https://arxiv.org/pdf/2306.05685): Paper that studies LLM judge alignment with human judges
+- [Your AI Product Needs Evals](https://hamel.dev/blog/posts/evals/): A good practical primer on getting started with evals
+
+You'll find my curated set of papers / articles [here](https://github.com/anupamck/sciHub).  
